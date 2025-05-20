@@ -115,10 +115,12 @@ p {
 .dark {
     background-color: black;
     color: white;
+    transition: 2s;
 }
 .light {
     background-color: white;
     color: black;
     border: 1px solid black;
     border-radius: 5px;
+    transition: 2s;
 }
